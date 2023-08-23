@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App/static/css/main.ebe048ea.css",
+    "main.js": "/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App/static/js/main.03f5b46e.js",
+    "index.html": "/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App/index.html",
+    "main.ebe048ea.css.map": "/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App/static/css/main.ebe048ea.css.map",
+    "main.03f5b46e.js.map": "/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App/static/js/main.03f5b46e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe048ea.css",
+    "static/js/main.03f5b46e.js"
+  ]
+}
