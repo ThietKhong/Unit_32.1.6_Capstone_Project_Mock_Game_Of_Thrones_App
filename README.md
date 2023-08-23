@@ -1,5 +1,5 @@
 1. App Title: Mock App - Game Of Thrones
-   Github Page URL: https://github.com/ThietKhong/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App 
+   Github Page URL: https://thietkhong.github.io/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App
 
 2. App purpose to mock a Game of Thrones website app
 
