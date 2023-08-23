@@ -16,11 +16,10 @@
   + npm install gh-pages --save-dev
 
 - Modify package.json file: add the following three lines into respective section.
+  
     "name": "react_api_game_of_thrones_exercise",
-    "version": "0.1.0",
-  
-    (ADD this line) --> "homepage": "https://thietkhong.github.io/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App",
-  
+    "version": "0.1.0",  
+    (ADD this line) --> "homepage": "https://thietkhong.github.io/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App",  
     "private": true,
 
     "scripts": {
