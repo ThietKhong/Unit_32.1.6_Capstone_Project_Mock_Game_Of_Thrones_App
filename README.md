@@ -18,12 +18,17 @@
 - Modify package.json file: add the following three lines into respective section.
     "name": "react_api_game_of_thrones_exercise",
     "version": "0.1.0",
+  
     (ADD this line) --> "homepage": "https://thietkhong.github.io/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App",
+  
     "private": true,
 
     "scripts": {
+  
         "predeploy": "npm run build",   <-- (ADD this line) 
+
         "deploy": "gh-pages -d build",  <-- (ADD this line) 
+
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
