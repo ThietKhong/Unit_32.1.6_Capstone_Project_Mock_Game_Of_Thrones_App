@@ -23,8 +23,10 @@
     "private": true,
 
     "scripts": {
+  
         "predeploy": "npm run build",   <-- (ADD this line) 
         "deploy": "gh-pages -d build",  <-- (ADD this line) 
+
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
