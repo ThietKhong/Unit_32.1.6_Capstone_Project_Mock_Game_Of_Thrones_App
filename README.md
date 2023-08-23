@@ -19,7 +19,7 @@
   
     "name": "react_api_game_of_thrones_exercise",
     "version": "0.1.0",  
-    (ADD this line) --> "homepage": "https://thietkhong.github.io/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App",  
+    "homepage": "https://thietkhong.github.io/Unit_32.1.6_Capstone_Project_Mock_Game_Of_Thrones_App",  <-- (ADD this line)
     "private": true,
 
     "scripts": {
