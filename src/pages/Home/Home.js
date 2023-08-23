@@ -4,7 +4,7 @@ function Home ()
 {
   return (
     <>
-    <h1>Game of Thrones</h1>
+    <h1>Mock App - Game of Thrones</h1>
       <section className={styles["section__container"]}>
         <h2>👑 She Threatened to "Burn Cities to the Ground" as Early as Season 2</h2>
         <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/12/season-2-l.jpg?q=50&fit=crop&w=1500&dpr=1.5" width="970" height="600"/>
